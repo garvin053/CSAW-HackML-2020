@@ -15,6 +15,10 @@
 └── eval.py // this is the evaluation script
 ```
 
+## Notes
+    just upload lab3.ipynb fine in colab and run it , Can get the results of lab3.
+    result of lab3.pdf is also attached in this file
+
 ## I. Dependencies
    1. Python 3.6.9
    2. Keras 2.3.1
@@ -37,5 +41,4 @@
       Clean Classification accuracy: 98.64 %
       Attack Success Rate: 100 %
 
-## IV. Important Notes
-Please use only clean validation data (valid.h5) to design the pruning defense. And use test data (test.h5 and bd_test.h5) to evaluate the models. 
+
