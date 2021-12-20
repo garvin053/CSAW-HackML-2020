@@ -2,12 +2,15 @@
 
 **Group Member Names and IDs: Youwen Zhang (yz6999), Run Yu (ry2068)**
 
-submit files:
-models: RepairedNet/*  #contain the repaired models
+**submit files:**
 
-project.ipynb #contain the code
-project.pdf  #contain code pdf
-project_report.pdf  #project report
+**models: /RepairedNet/  #contain the repaired models**
+
+**code: /project.ipynb**
+
+**code pdf: /project.pdf**
+
+**project report: /project_report.pdf**
 
  
 Project Summary
