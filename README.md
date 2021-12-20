@@ -1,7 +1,14 @@
 # CSAW-HackML-2020
 
 **Group Member Names and IDs: Youwen Zhang (yz6999), Run Yu (ry2068)**
- 
+
+submit files:
+models: RepairedNet/*  #contain the repaired models
+
+project.ipynb #contain the code
+project.pdf  #contain code pdf
+project_report.pdf  #project report
+
  
 Project Summary
 
